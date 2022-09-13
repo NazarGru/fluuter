@@ -16,6 +16,8 @@ void main(List<String> arguments) {
   bool myBool = true;
 
   dynamic myDinamic = 10;
+  //automate variable
+  var myVar = 'sgd'; 
   print('${myString}: ${dart_application_1.calculate()}!');
 
   print(myString.contains('Hello'));//true
